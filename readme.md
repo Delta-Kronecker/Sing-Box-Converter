@@ -1,5 +1,5 @@
 
-# Sing Box converter
+# Sing Box Converter
 
 Powerful proxy subscription parser & converter to Sing-Box JSON format.
 
